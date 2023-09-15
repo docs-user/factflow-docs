@@ -1,8 +1,6 @@
 Getting Started
 =====
 
-.. _installation:
-
 Loading a CST file
 ------------
 .. image:: LoadCST.gif
@@ -35,4 +33,37 @@ Calculate
 ----------------
 .. image:: Calculate.gif
    :alt: Calculate
+   :align: center
+
+Nodes
+=====
+
+Start Node
+------------
+.. image:: StartNode.png
+   :alt: StartNode
+   :align: center
+
+Equilib Reactor
+------------
+.. image:: EquilibReactor.png
+   :alt: EquilibReactor
+   :align: center
+
+Splitter
+------------
+.. image:: Splitter.png
+   :alt: Splitter
+   :align: center
+
+End Node
+------------
+.. image:: EndNode.png
+   :alt: EndNode
+   :align: center
+
+Loop Node
+------------
+.. image:: LoopNode.png
+   :alt: LoopNode
    :align: center
