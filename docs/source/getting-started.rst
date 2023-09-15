@@ -7,11 +7,15 @@ Loading a CST file
    :alt: LoadCST
    :align: center
 
+
+
 Assembling the flowsheet
 ----------------
 .. image:: AssembleFlowsheet.gif
    :alt: AssembleFlowsheet
    :align: center
+
+
 
 Entering reactants
 ----------------
@@ -23,11 +27,15 @@ Entering reactants
    :alt: HematiteReactant
    :align: center
 
+
+
 Setting equilibrium conditions
 ----------------
 .. image:: ReactorTemperature.gif
    :alt: ReactorTemperature
    :align: center
+
+
 
 Calculate
 ----------------
