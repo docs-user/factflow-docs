@@ -16,6 +16,5 @@ Contents
 
 .. toctree::
 
-   Getting started
-   Nodes
-   Analysis
+   nodes
+   analysis
