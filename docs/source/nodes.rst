@@ -1,4 +1,4 @@
-Nodes
+Getting Started
 =====
 
 .. _installation:
