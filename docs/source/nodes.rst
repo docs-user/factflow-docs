@@ -7,11 +7,15 @@ Start Node
    :alt: StartNode
    :align: center
 
+
+
 Equilib Reactor
 ------------
 .. image:: EquilibReactor.png
    :alt: EquilibReactor
    :align: center
+
+
 
 Splitter
 ------------
@@ -19,11 +23,15 @@ Splitter
    :alt: Splitter
    :align: center
 
+
+
 End Node
 ------------
 .. image:: EndNode.png
    :alt: EndNode
    :align: center
+
+
 
 Loop Node
 ------------
