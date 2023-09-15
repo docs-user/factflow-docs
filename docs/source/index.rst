@@ -17,7 +17,6 @@ Contents
 
 .. toctree::
 
-   index
    getting-started
    nodes
    analysis
