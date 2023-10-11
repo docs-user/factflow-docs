@@ -1,4 +1,4 @@
-Welcome to FactFlow's documentation!
+Welcome to the FactFlow documentation!
 ===================================
 
 **FactFlow** is a process simulation software that uses FactSage calculations to perform equilibrium calculations.
