@@ -21,5 +21,6 @@ Contents
 .. toctree::
 
    getting-started
+   .. toctree::
    nodes
    analysis
