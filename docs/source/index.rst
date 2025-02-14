@@ -9,20 +9,9 @@ Welcome to the FactFlow documentation
    :alt: FactFlow
    :align: center
 
-
-Check out the :doc:`getting-started` section for a quick start guide, :doc:`nodes` for more detailed explanations on what each Node does, and :ref:`analysis` for a guide on how to calculate equilibrium over a range of values.
+Check out the `FactFlow Quick Start Guide <https://www.factsage.com/Factflow/Docs/FactFlow%20Quick%20Start%20Guide%20V1.1.pdf>`_, and for examples showcasing the use of **FactFlow** for various pyrometallurgical processes, refer to this paper: `The power of computational thermochemistry in high-temperature process design and optimization: Part 2 – Pyrometallurgical process modeling using FactFlow <https://doi.org/10.1016/j.calphad.2024.102772>`_.
 
 
 .. note::
 
    The documentation for this project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   getting-started
-   .. toctree::
-   nodes
-   analysis
