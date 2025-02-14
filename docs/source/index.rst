@@ -5,9 +5,11 @@ Welcome to the FactFlow documentation
 
 **FactFlow** accesses the **FactSage** databases (.cst files) and the user defines the initial conditions including compositions and amounts of the individual streams. When calculating, **FactFlow** employs the same chemical equilibrium calculation algorithms as in **Equilib**.
 
-.. image:: Ferrosilicon-example.png
+.. figure:: Ferrosilicon-example.png
    :alt: FactFlow
    :align: center
+
+   Ferrosilicon production via an electrical arc furnace. 
 
 Check out the `FactFlow Quick Start Guide <https://www.factsage.com/Factflow/Docs/FactFlow%20Quick%20Start%20Guide%20V1.1.pdf>`_, and for examples showcasing the use of **FactFlow** for various pyrometallurgical processes, refer to this paper: `The power of computational thermochemistry in high-temperature process design and optimization: Part 2 – Pyrometallurgical process modeling using FactFlow <https://doi.org/10.1016/j.calphad.2024.102772>`_.
 
