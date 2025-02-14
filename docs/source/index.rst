@@ -5,7 +5,7 @@ Welcome to the FactFlow documentation
 
 **FactFlow** accesses the **FactSage** databases (.cst files) and the user defines the initial conditions including compositions and amounts of the individual streams. When calculating, **FactFlow** employs the same chemical equilibrium calculation algorithms as in **Equilib**.
 
-.. image:: FactFlow.png
+.. image:: Ferrosilicon-example.png
    :alt: FactFlow
    :align: center
 
